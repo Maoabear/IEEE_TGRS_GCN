@@ -47,9 +47,9 @@ TrLabel = TR_temp';
 TeLabel = TE_temp';
 
 %% Please replace the following route with your own one
-save('D:\Python_Project\GCN\HSI_GCN/Train_X.mat','Train_X');
-save('D:\Python_Project\GCN\HSI_GCN/Test_X.mat','Test_X');
-save('D:\Python_Project\GCN\HSI_GCN/TrLabel.mat','TrLabel');
-save('D:\Python_Project\GCN\HSI_GCN/TeLabel.mat','TeLabel');
-save('D:\Python_Project\GCN\HSI_GCN/Train_L.mat','Train_L');
-save('D:\Python_Project\GCN\HSI_GCN/Test_L.mat','Test_L');
+save('HSI_GCN/Train_X.mat','Train_X');
+save('HSI_GCN/Test_X.mat','Test_X');
+save('HSI_GCN/TrLabel.mat','TrLabel');
+save('HSI_GCN/TeLabel.mat','TeLabel');
+save('HSI_GCN/Train_L.mat','Train_L');
+save('HSI_GCN/Test_L.mat','Test_L');
